@@ -1,6 +1,6 @@
 # CS50 AI - Solutions and Resources
 
-![CS50 AI Logo]([https://cs50.harvard.edu/ai/2020/img/logo-cs50.png](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50AI_pll.png)
+![CS50 AI Logo](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50AI_pll.png "cs50-AI")
 
 Welcome to the CS50 AI repository! Here you will find solutions, code, and resources for the **CS50's Introduction to Artificial Intelligence with Python** course offered by Harvard University. Before delving into the materials in this repository, please familiarize yourself with CS50's Academic Honesty rules to ensure you use these resources appropriately.
 
