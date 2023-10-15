@@ -4,7 +4,7 @@
 </p>
 <p>
 </p>
-Welcome to the CS50 AI repository! Here you will find solutions, code, and resources for the **CS50's Introduction to Artificial Intelligence with Python** course offered by Harvard University. Before delving into the materials in this repository, please familiarize yourself with CS50's Academic Honesty rules to ensure you use these resources appropriately.
+Welcome to the CS50 AI repository! Here you will find solutions, code, and resources for the CS50's Introduction to Artificial Intelligence with Python course offered by Harvard University. Before delving into the materials in this repository, please familiarize yourself with CS50's Academic Honesty rules to ensure you use these resources appropriately.
 
 ## Course Overview
 
